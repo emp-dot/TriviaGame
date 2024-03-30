@@ -34,8 +34,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style="position: relative; padding-bottom: 214.28571428571428%; height: 0;"><iframe src="https://www.loom.com/embed/c342cf8522864e3a899a9d64d0197f0a?sid=1d9a9318-fdeb-427c-8041-ce69b4aea5a1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/c342cf8522864e3a899a9d64d0197f0a">
+      <p>Simulator - iPhone 15 Pro - 30 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/c342cf8522864e3a899a9d64d0197f0a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c342cf8522864e3a899a9d64d0197f0a-with-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
